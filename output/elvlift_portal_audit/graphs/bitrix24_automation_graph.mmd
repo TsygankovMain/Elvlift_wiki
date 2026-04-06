@@ -1,0 +1,197 @@
+flowchart TD
+  E1["Лиды"]
+  C1_0["Основная"]
+  E1 -->|contains| C1_0
+  S_1_0_NEW["Новый [NEW]"]
+  C1_0 -->|contains| S_1_0_NEW
+  S_1_0_CONVERTED["Качественный Лид [CONVERTED]"]
+  C1_0 -->|contains| S_1_0_CONVERTED
+  S_1_0_JUNK["Некачественный Лид [JUNK]"]
+  C1_0 -->|contains| S_1_0_JUNK
+  E2["Сделки"]
+  C2_0["Коммерческая воронка"]
+  E2 -->|contains| C2_0
+  S_2_0_NEW["Анализ ТЗ [NEW]"]
+  C2_0 -->|contains| S_2_0_NEW
+  S_2_0_UC_MKIYN6["Подготовка и отправка КП [UC_MKIYN6]"]
+  C2_0 -->|contains| S_2_0_UC_MKIYN6
+  S_2_0_UC_I070YF["Переговоры [UC_I070YF]"]
+  C2_0 -->|contains| S_2_0_UC_I070YF
+  S_2_0_EXECUTING["Согласование договора [EXECUTING]"]
+  C2_0 -->|contains| S_2_0_EXECUTING
+  S_2_0_UC_WFZPF0["Счет на аванс [UC_WFZPF0]"]
+  C2_0 -->|contains| S_2_0_UC_WFZPF0
+  S_2_0_FINAL_INVOICE["Аванс получен [FINAL_INVOICE]"]
+  C2_0 -->|contains| S_2_0_FINAL_INVOICE
+  S_2_0_UC_1LOS62["Оборудование [UC_1LOS62]"]
+  C2_0 -->|contains| S_2_0_UC_1LOS62
+  S_2_0_2["Монтаж [2]"]
+  C2_0 -->|contains| S_2_0_2
+  S_2_0_3["Окончательный расчет [3]"]
+  C2_0 -->|contains| S_2_0_3
+  S_2_0_WON["Сделка успешна [WON]"]
+  C2_0 -->|contains| S_2_0_WON
+  S_2_0_LOSE["Сделка провалена [LOSE]"]
+  C2_0 -->|contains| S_2_0_LOSE
+  C2_1["Тендерная продажа"]
+  E2 -->|contains| C2_1
+  S_2_1_C1_NEW["Новый тендер [C1:NEW]"]
+  C2_1 -->|contains| S_2_1_C1_NEW
+  S_2_1_C1_PREPARATION["Смета/расчет [C1:PREPARATION]"]
+  C2_1 -->|contains| S_2_1_C1_PREPARATION
+  S_2_1_C1_PREPAYMENT_INVOICE["Согласование [C1:PREPAYMENT_INVOICE]"]
+  C2_1 -->|contains| S_2_1_C1_PREPAYMENT_INVOICE
+  S_2_1_C1_EXECUTING["Подача заявки [C1:EXECUTING]"]
+  C2_1 -->|contains| S_2_1_C1_EXECUTING
+  S_2_1_C1_FINAL_INVOICE["Торги [C1:FINAL_INVOICE]"]
+  C2_1 -->|contains| S_2_1_C1_FINAL_INVOICE
+  S_2_1_C1_1["Ожидание итогов [C1:1]"]
+  C2_1 -->|contains| S_2_1_C1_1
+  S_2_1_C1_2["Выполнение обязательств [C1:2]"]
+  C2_1 -->|contains| S_2_1_C1_2
+  S_2_1_C1_3["Окончательный расчет [C1:3]"]
+  C2_1 -->|contains| S_2_1_C1_3
+  S_2_1_C1_WON["Сделка успешна [C1:WON]"]
+  C2_1 -->|contains| S_2_1_C1_WON
+  S_2_1_C1_LOSE["Сделка провалена [C1:LOSE]"]
+  C2_1 -->|contains| S_2_1_C1_LOSE
+  C2_2["Продажа по ФЗ"]
+  E2 -->|contains| C2_2
+  S_2_2_C2_NEW["Новый тендер [C2:NEW]"]
+  C2_2 -->|contains| S_2_2_C2_NEW
+  S_2_2_C2_PREPARATION["Расчет/смета [C2:PREPARATION]"]
+  C2_2 -->|contains| S_2_2_C2_PREPARATION
+  S_2_2_C2_PREPAYMENT_INVOICE["Согласование [C2:PREPAYMENT_INVOICE]"]
+  C2_2 -->|contains| S_2_2_C2_PREPAYMENT_INVOICE
+  S_2_2_C2_EXECUTING["Подача заявки [C2:EXECUTING]"]
+  C2_2 -->|contains| S_2_2_C2_EXECUTING
+  S_2_2_C2_FINAL_INVOICE["Торги [C2:FINAL_INVOICE]"]
+  C2_2 -->|contains| S_2_2_C2_FINAL_INVOICE
+  S_2_2_C2_UC_UMTNQO["Ожидание итогов [C2:UC_UMTNQO]"]
+  C2_2 -->|contains| S_2_2_C2_UC_UMTNQO
+  S_2_2_C2_UC_G71QY3["Выполнение обязательств [C2:UC_G71QY3]"]
+  C2_2 -->|contains| S_2_2_C2_UC_G71QY3
+  S_2_2_C2_UC_ZWM3RV["Окончательный расчет [C2:UC_ZWM3RV]"]
+  C2_2 -->|contains| S_2_2_C2_UC_ZWM3RV
+  S_2_2_C2_WON["Сделка успешна [C2:WON]"]
+  C2_2 -->|contains| S_2_2_C2_WON
+  S_2_2_C2_LOSE["Сделка провалена [C2:LOSE]"]
+  C2_2 -->|contains| S_2_2_C2_LOSE
+  C2_4["Долгосрочная"]
+  E2 -->|contains| C2_4
+  S_2_4_C4_NEW["Переговоры [C4:NEW]"]
+  C2_4 -->|contains| S_2_4_C4_NEW
+  S_2_4_C4_WON["Перевод в сделку [C4:WON]"]
+  C2_4 -->|contains| S_2_4_C4_WON
+  S_2_4_C4_LOSE["Не подтвердилась [C4:LOSE]"]
+  C2_4 -->|contains| S_2_4_C4_LOSE
+  T79["[79] Прикрепить лифт"]
+  E2 -->|binds| T79
+  T80["[80] Прикрепление объекта"]
+  E2 -->|binds| T80
+  T107["[107] Постановака ответственного"]
+  E2 -->|binds| T107
+  E3["Контакты"]
+  C3_0["Общая воронка"]
+  E3 -->|contains| C3_0
+  C3_1["Category 1"]
+  E3 -->|contains| C3_1
+  C3_4["Контакты поставщика"]
+  E3 -->|contains| C3_4
+  E4["Компании"]
+  C4_0["Общая воронка"]
+  E4 -->|contains| C4_0
+  C4_5["Поставщики"]
+  E4 -->|contains| C4_5
+  T76["[76] Заведение ИНН"]
+  E4 -->|binds| T76
+  T156["[156] Рассылка писем"]
+  E4 -->|binds| T156
+  E7["Предложения"]
+  C7_0["Основная"]
+  E7 -->|contains| C7_0
+  S_7_0_DRAFT["Новое [DRAFT]"]
+  C7_0 -->|contains| S_7_0_DRAFT
+  S_7_0_SENT["Отправлено клиенту [SENT]"]
+  C7_0 -->|contains| S_7_0_SENT
+  S_7_0_APPROVED["Принято [APPROVED]"]
+  C7_0 -->|contains| S_7_0_APPROVED
+  S_7_0_DECLAINED["Отклонено [DECLAINED]"]
+  C7_0 -->|contains| S_7_0_DECLAINED
+  S_7_0_APOLOGY["Анализ причины отклонения [APOLOGY]"]
+  C7_0 -->|contains| S_7_0_APOLOGY
+  E31["Смарт-счета"]
+  C31_3["Общая"]
+  E31 -->|contains| C31_3
+  E1036["Договор"]
+  C1036_6["Общая"]
+  E1036 -->|contains| C1036_6
+  S_1036_6_DT1036_6_NEW["Начало [DT1036_6:NEW]"]
+  C1036_6 -->|contains| S_1036_6_DT1036_6_NEW
+  S_1036_6_DT1036_6_PREPARATION["Подготовка [DT1036_6:PREPARATION]"]
+  C1036_6 -->|contains| S_1036_6_DT1036_6_PREPARATION
+  S_1036_6_DT1036_6_CLIENT["Согласование [DT1036_6:CLIENT]"]
+  C1036_6 -->|contains| S_1036_6_DT1036_6_CLIENT
+  S_1036_6_DT1036_6_SUCCESS["Заключен [DT1036_6:SUCCESS]"]
+  C1036_6 -->|contains| S_1036_6_DT1036_6_SUCCESS
+  S_1036_6_DT1036_6_FAIL["Провал [DT1036_6:FAIL]"]
+  C1036_6 -->|contains| S_1036_6_DT1036_6_FAIL
+  T82["[82] Привязка компаний и контактов"]
+  E1036 -->|binds| T82
+  E1046["Лифт"]
+  C1046_8["Общая"]
+  E1046 -->|contains| C1046_8
+  S_1046_8_DT1046_8_NEW["Начало [DT1046_8:NEW]"]
+  C1046_8 -->|contains| S_1046_8_DT1046_8_NEW
+  S_1046_8_DT1046_8_PREPARATION["Подготовка [DT1046_8:PREPARATION]"]
+  C1046_8 -->|contains| S_1046_8_DT1046_8_PREPARATION
+  S_1046_8_DT1046_8_CLIENT["Согласование [DT1046_8:CLIENT]"]
+  C1046_8 -->|contains| S_1046_8_DT1046_8_CLIENT
+  S_1046_8_DT1046_8_SUCCESS["Успех [DT1046_8:SUCCESS]"]
+  C1046_8 -->|contains| S_1046_8_DT1046_8_SUCCESS
+  S_1046_8_DT1046_8_FAIL["Провал [DT1046_8:FAIL]"]
+  C1046_8 -->|contains| S_1046_8_DT1046_8_FAIL
+  T78["[78] Добавление в сделку"]
+  E1046 -->|binds| T78
+  E1050["Объект"]
+  C1050_9["Общая"]
+  E1050 -->|contains| C1050_9
+  S_1050_9_DT1050_9_NEW["Начало [DT1050_9:NEW]"]
+  C1050_9 -->|contains| S_1050_9_DT1050_9_NEW
+  S_1050_9_DT1050_9_PREPARATION["Подготовка [DT1050_9:PREPARATION]"]
+  C1050_9 -->|contains| S_1050_9_DT1050_9_PREPARATION
+  S_1050_9_DT1050_9_CLIENT["Согласование [DT1050_9:CLIENT]"]
+  C1050_9 -->|contains| S_1050_9_DT1050_9_CLIENT
+  S_1050_9_DT1050_9_SUCCESS["Успех [DT1050_9:SUCCESS]"]
+  C1050_9 -->|contains| S_1050_9_DT1050_9_SUCCESS
+  S_1050_9_DT1050_9_FAIL["Провал [DT1050_9:FAIL]"]
+  C1050_9 -->|contains| S_1050_9_DT1050_9_FAIL
+  T77["[77] Создание лифтов"]
+  E1050 -->|binds| T77
+  E1054["Марка лифта"]
+  C1054_10["Общая"]
+  E1054 -->|contains| C1054_10
+  S_1054_10_DT1054_10_NEW["Начало [DT1054_10:NEW]"]
+  C1054_10 -->|contains| S_1054_10_DT1054_10_NEW
+  S_1054_10_DT1054_10_PREPARATION["Подготовка [DT1054_10:PREPARATION]"]
+  C1054_10 -->|contains| S_1054_10_DT1054_10_PREPARATION
+  S_1054_10_DT1054_10_CLIENT["Согласование [DT1054_10:CLIENT]"]
+  C1054_10 -->|contains| S_1054_10_DT1054_10_CLIENT
+  S_1054_10_DT1054_10_SUCCESS["Успех [DT1054_10:SUCCESS]"]
+  C1054_10 -->|contains| S_1054_10_DT1054_10_SUCCESS
+  S_1054_10_DT1054_10_FAIL["Провал [DT1054_10:FAIL]"]
+  C1054_10 -->|contains| S_1054_10_DT1054_10_FAIL
+  E1058["Юридические лица"]
+  C1058_11["Общая"]
+  E1058 -->|contains| C1058_11
+  S_1058_11_DT1058_11_NEW["Начало [DT1058_11:NEW]"]
+  C1058_11 -->|contains| S_1058_11_DT1058_11_NEW
+  S_1058_11_DT1058_11_PREPARATION["Подготовка [DT1058_11:PREPARATION]"]
+  C1058_11 -->|contains| S_1058_11_DT1058_11_PREPARATION
+  S_1058_11_DT1058_11_CLIENT["Согласование [DT1058_11:CLIENT]"]
+  C1058_11 -->|contains| S_1058_11_DT1058_11_CLIENT
+  S_1058_11_DT1058_11_SUCCESS["Успех [DT1058_11:SUCCESS]"]
+  C1058_11 -->|contains| S_1058_11_DT1058_11_SUCCESS
+  S_1058_11_DT1058_11_FAIL["Провал [DT1058_11:FAIL]"]
+  C1058_11 -->|contains| S_1058_11_DT1058_11_FAIL
+  T77 -->|starts| T79

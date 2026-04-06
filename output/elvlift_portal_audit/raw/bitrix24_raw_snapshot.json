@@ -1,0 +1,1870 @@
+{
+  "generatedAt": "2026-04-06T09:37:14+00:00",
+  "portal": {
+    "host": "b24.elvlift.ru",
+    "maskedBaseUrl": "https://b24.elvlift.ru/rest/***/***/"
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "bitrix@elvlift.ru",
+      "email": "bitrix@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "43",
+      "name": "Жерносек Валентин",
+      "email": "v.zhernosek@elvlift.ru",
+      "active": false
+    },
+    {
+      "id": "44",
+      "name": "Мария Игнатьева",
+      "email": "ignatyeva@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "45",
+      "name": "Алексей Сапожонков",
+      "email": "a.sapozhonkov@elvlift.ru",
+      "active": false
+    },
+    {
+      "id": "46",
+      "name": "Алексей Королев",
+      "email": "a.korolev@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "47",
+      "name": "Валерий Круглов",
+      "email": "kruglov@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "49",
+      "name": "Владимир Солодухин",
+      "email": "v.soloduhin@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "50",
+      "name": "Андрей Кашицин",
+      "email": "a.kashitcin@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "51",
+      "name": "Ольга Егорова",
+      "email": "egorovaon@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "53",
+      "name": "Валентина Назарян",
+      "email": "nazaryan@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "54",
+      "name": "Анна Баженова",
+      "email": "a.bazhenova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "55",
+      "name": "Зоя Бельская",
+      "email": "kadry@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "57",
+      "name": "Жанна Бессонова",
+      "email": "urist01@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "58",
+      "name": "Вячеслав Богданов",
+      "email": "bogdanov.vv@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "59",
+      "name": "Леонида Вандышева",
+      "email": "office@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "60",
+      "name": "Александр Внуков",
+      "email": "vnukov@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "61",
+      "name": "Роман Войтенко",
+      "email": "r.voitenko@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "62",
+      "name": "Яна Голодная",
+      "email": "j.golodnaya@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "63",
+      "name": "Гришина Елена",
+      "email": "e.grishina@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "64",
+      "name": "Наталья Гулицкая",
+      "email": "n.gulitskaya@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "65",
+      "name": "Михаил Дьячков",
+      "email": "dyachkov@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "66",
+      "name": "Марина Еганова",
+      "email": "eganova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "67",
+      "name": "Оксана Завальнюк",
+      "email": "zavalnuk@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "68",
+      "name": "Андрей Зворыкин",
+      "email": "a.zvorikin@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "69",
+      "name": "Александр Козлов",
+      "email": "a.kozlov@elvlift.ru",
+      "active": false
+    },
+    {
+      "id": "70",
+      "name": "Игорь Комаров",
+      "email": "komarov@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "71",
+      "name": "Александр Кузьменко",
+      "email": "a.kuzmenko@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "72",
+      "name": "Инна Курицына",
+      "email": "i.kuritsyna@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "73",
+      "name": "Вадим Лаврентьев",
+      "email": "v.lavrentyev@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "74",
+      "name": "Татьяна Леонова",
+      "email": "leonova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "75",
+      "name": "Игорь Мантулин",
+      "email": "mantulin@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "76",
+      "name": "Карина Мельникова",
+      "email": "k.melnikova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "77",
+      "name": "Ольга Родионова",
+      "email": "o.rodionova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "78",
+      "name": "Анна Садова",
+      "email": "sadova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "79",
+      "name": "Наталья Строй",
+      "email": "stroy@elvlift.ru",
+      "active": false
+    },
+    {
+      "id": "80",
+      "name": "Елизавета Таменова",
+      "email": "e.tamenova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "81",
+      "name": "Денис Тюркин",
+      "email": "d.turkin@elvlift.ru",
+      "active": false
+    },
+    {
+      "id": "82",
+      "name": "Анна Хританкова",
+      "email": "hritankova@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "83",
+      "name": "Любовь Черкашина",
+      "email": "cherkashina@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "84",
+      "name": "Ольга Якунина",
+      "email": "yakunina@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "87",
+      "name": "Владимир Бунин",
+      "email": "v.bunin@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "95",
+      "name": "Анатолий Мухортых",
+      "email": "am@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "96",
+      "name": "Павел Смагин",
+      "email": null,
+      "active": false
+    },
+    {
+      "id": "99",
+      "name": "Егор Цыганков",
+      "email": "i@egor-tsygankov.ru",
+      "active": true
+    },
+    {
+      "id": "108",
+      "name": "Николай Левченко",
+      "email": "n.levchenko@elvlift.ru",
+      "active": true
+    },
+    {
+      "id": "110",
+      "name": "Федор Гирусов",
+      "email": "f.girusov@elvlift.ru",
+      "active": true
+    }
+  ],
+  "entities": [
+    {
+      "entityTypeId": 1,
+      "title": "Лиды",
+      "documentType": "LEAD",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 0,
+          "name": "Основная",
+          "sort": 0,
+          "isDefault": "Y",
+          "stageEntityId": "STATUS",
+          "stages": [
+            {
+              "id": 1,
+              "statusId": "NEW",
+              "name": "Новый",
+              "sort": 10,
+              "semantics": null,
+              "color": "#39a8ef"
+            },
+            {
+              "id": 4,
+              "statusId": "CONVERTED",
+              "name": "Качественный Лид",
+              "sort": 20,
+              "semantics": "S",
+              "color": "#7bd500"
+            },
+            {
+              "id": 5,
+              "statusId": "JUNK",
+              "name": "Некачественный Лид",
+              "sort": 30,
+              "semantics": "F",
+              "color": "#ff5752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 2,
+      "title": "Сделки",
+      "documentType": "DEAL",
+      "supportsCategories": true,
+      "categories": [
+        {
+          "id": 0,
+          "name": "Коммерческая воронка",
+          "sort": 0,
+          "isDefault": "Y",
+          "stageEntityId": "DEAL_STAGE",
+          "stages": [
+            {
+              "id": 51,
+              "statusId": "NEW",
+              "name": "Анализ ТЗ",
+              "sort": 10,
+              "semantics": null,
+              "color": "#39a8ef"
+            },
+            {
+              "id": 116,
+              "statusId": "UC_MKIYN6",
+              "name": "Подготовка и отправка КП",
+              "sort": 20,
+              "semantics": null,
+              "color": "#468ee5"
+            },
+            {
+              "id": 168,
+              "statusId": "UC_I070YF",
+              "name": "Переговоры",
+              "sort": 30,
+              "semantics": null,
+              "color": "#1eae43"
+            },
+            {
+              "id": 54,
+              "statusId": "EXECUTING",
+              "name": "Согласование договора",
+              "sort": 40,
+              "semantics": null,
+              "color": "#47E4C2"
+            },
+            {
+              "id": 186,
+              "statusId": "UC_WFZPF0",
+              "name": "Счет на аванс",
+              "sort": 50,
+              "semantics": null,
+              "color": "#00c4fb"
+            },
+            {
+              "id": 55,
+              "statusId": "FINAL_INVOICE",
+              "name": "Аванс получен",
+              "sort": 60,
+              "semantics": null,
+              "color": "#ffa900"
+            },
+            {
+              "id": 187,
+              "statusId": "UC_1LOS62",
+              "name": "Оборудование",
+              "sort": 70,
+              "semantics": null,
+              "color": "#47d1e2"
+            },
+            {
+              "id": 113,
+              "statusId": "2",
+              "name": "Монтаж",
+              "sort": 80,
+              "semantics": null,
+              "color": "#39a8ef"
+            },
+            {
+              "id": 114,
+              "statusId": "3",
+              "name": "Окончательный расчет",
+              "sort": 90,
+              "semantics": null,
+              "color": "#2FC6F6"
+            },
+            {
+              "id": 56,
+              "statusId": "WON",
+              "name": "Сделка успешна",
+              "sort": 100,
+              "semantics": "S",
+              "color": "#7BD500"
+            },
+            {
+              "id": 57,
+              "statusId": "LOSE",
+              "name": "Сделка провалена",
+              "sort": 110,
+              "semantics": "F",
+              "color": "#FF5752"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Тендерная продажа",
+          "sort": 10,
+          "isDefault": "N",
+          "stageEntityId": "DEAL_STAGE_1",
+          "stages": [
+            {
+              "id": 89,
+              "statusId": "C1:NEW",
+              "name": "Новый тендер",
+              "sort": 10,
+              "semantics": null,
+              "color": "#39A8EF"
+            },
+            {
+              "id": 90,
+              "statusId": "C1:PREPARATION",
+              "name": "Смета/расчет",
+              "sort": 20,
+              "semantics": null,
+              "color": "#2FC6F6"
+            },
+            {
+              "id": 91,
+              "statusId": "C1:PREPAYMENT_INVOICE",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#55D0E0"
+            },
+            {
+              "id": 92,
+              "statusId": "C1:EXECUTING",
+              "name": "Подача заявки",
+              "sort": 40,
+              "semantics": null,
+              "color": "#47E4C2"
+            },
+            {
+              "id": 93,
+              "statusId": "C1:FINAL_INVOICE",
+              "name": "Торги",
+              "sort": 50,
+              "semantics": null,
+              "color": "#FFA900"
+            },
+            {
+              "id": 139,
+              "statusId": "C1:1",
+              "name": "Ожидание итогов",
+              "sort": 60,
+              "semantics": null,
+              "color": "#39A8EF"
+            },
+            {
+              "id": 140,
+              "statusId": "C1:2",
+              "name": "Выполнение обязательств",
+              "sort": 70,
+              "semantics": null,
+              "color": "#2FC6F6"
+            },
+            {
+              "id": 141,
+              "statusId": "C1:3",
+              "name": "Окончательный расчет",
+              "sort": 80,
+              "semantics": null,
+              "color": "#55D0E0"
+            },
+            {
+              "id": 94,
+              "statusId": "C1:WON",
+              "name": "Сделка успешна",
+              "sort": 90,
+              "semantics": "S",
+              "color": "#7BD500"
+            },
+            {
+              "id": 95,
+              "statusId": "C1:LOSE",
+              "name": "Сделка провалена",
+              "sort": 100,
+              "semantics": "F",
+              "color": "#FF5752"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Продажа по ФЗ",
+          "sort": 20,
+          "isDefault": "N",
+          "stageEntityId": "DEAL_STAGE_2",
+          "stages": [
+            {
+              "id": 97,
+              "statusId": "C2:NEW",
+              "name": "Новый тендер",
+              "sort": 10,
+              "semantics": null,
+              "color": "#39a8ef"
+            },
+            {
+              "id": 98,
+              "statusId": "C2:PREPARATION",
+              "name": "Расчет/смета",
+              "sort": 20,
+              "semantics": null,
+              "color": "#2fc6f6"
+            },
+            {
+              "id": 99,
+              "statusId": "C2:PREPAYMENT_INVOICE",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#55d0e0"
+            },
+            {
+              "id": 100,
+              "statusId": "C2:EXECUTING",
+              "name": "Подача заявки",
+              "sort": 40,
+              "semantics": null,
+              "color": "#47e4c2"
+            },
+            {
+              "id": 101,
+              "statusId": "C2:FINAL_INVOICE",
+              "name": "Торги",
+              "sort": 50,
+              "semantics": null,
+              "color": "#ffa900"
+            },
+            {
+              "id": 142,
+              "statusId": "C2:UC_UMTNQO",
+              "name": "Ожидание итогов",
+              "sort": 60,
+              "semantics": null,
+              "color": "#00c4fb"
+            },
+            {
+              "id": 143,
+              "statusId": "C2:UC_G71QY3",
+              "name": "Выполнение обязательств",
+              "sort": 70,
+              "semantics": null,
+              "color": "#47d1e2"
+            },
+            {
+              "id": 144,
+              "statusId": "C2:UC_ZWM3RV",
+              "name": "Окончательный расчет",
+              "sort": 80,
+              "semantics": null,
+              "color": "#75d900"
+            },
+            {
+              "id": 102,
+              "statusId": "C2:WON",
+              "name": "Сделка успешна",
+              "sort": 90,
+              "semantics": "S",
+              "color": "#7BD500"
+            },
+            {
+              "id": 103,
+              "statusId": "C2:LOSE",
+              "name": "Сделка провалена",
+              "sort": 100,
+              "semantics": "F",
+              "color": "#FF5752"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Долгосрочная",
+          "sort": 40,
+          "isDefault": "N",
+          "stageEntityId": "DEAL_STAGE_4",
+          "stages": [
+            {
+              "id": 177,
+              "statusId": "C4:NEW",
+              "name": "Переговоры",
+              "sort": 10,
+              "semantics": null,
+              "color": "#1f86ff"
+            },
+            {
+              "id": 182,
+              "statusId": "C4:WON",
+              "name": "Перевод в сделку",
+              "sort": 60,
+              "semantics": "S",
+              "color": "#7bd500"
+            },
+            {
+              "id": 183,
+              "statusId": "C4:LOSE",
+              "name": "Не подтвердилась",
+              "sort": 70,
+              "semantics": "F",
+              "color": "#ff5752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 3,
+      "title": "Контакты",
+      "documentType": "CONTACT",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 0,
+          "name": "Общая воронка",
+          "sort": 0,
+          "isDefault": "Y",
+          "stageEntityId": null,
+          "stages": []
+        },
+        {
+          "id": 1,
+          "name": "Category 1",
+          "sort": 500,
+          "isDefault": "N",
+          "stageEntityId": null,
+          "stages": []
+        },
+        {
+          "id": 4,
+          "name": "Контакты поставщика",
+          "sort": 500,
+          "isDefault": "N",
+          "stageEntityId": null,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "entityTypeId": 4,
+      "title": "Компании",
+      "documentType": "COMPANY",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 0,
+          "name": "Общая воронка",
+          "sort": 0,
+          "isDefault": "Y",
+          "stageEntityId": null,
+          "stages": []
+        },
+        {
+          "id": 5,
+          "name": "Поставщики",
+          "sort": 500,
+          "isDefault": "N",
+          "stageEntityId": null,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "entityTypeId": 7,
+      "title": "Предложения",
+      "documentType": "QUOTE",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 0,
+          "name": "Основная",
+          "sort": 0,
+          "isDefault": "Y",
+          "stageEntityId": "QUOTE_STATUS",
+          "stages": [
+            {
+              "id": 66,
+              "statusId": "DRAFT",
+              "name": "Новое",
+              "sort": 10,
+              "semantics": null,
+              "color": "#39A8EF"
+            },
+            {
+              "id": 67,
+              "statusId": "SENT",
+              "name": "Отправлено клиенту",
+              "sort": 20,
+              "semantics": null,
+              "color": "#2FC6F6"
+            },
+            {
+              "id": 68,
+              "statusId": "APPROVED",
+              "name": "Принято",
+              "sort": 30,
+              "semantics": "S",
+              "color": "#7BD500"
+            },
+            {
+              "id": 69,
+              "statusId": "DECLAINED",
+              "name": "Отклонено",
+              "sort": 40,
+              "semantics": "F",
+              "color": "#FF5752"
+            },
+            {
+              "id": 70,
+              "statusId": "APOLOGY",
+              "name": "Анализ причины отклонения",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#FF5752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 31,
+      "title": "Смарт-счета",
+      "documentType": "SMART_INVOICE",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": null,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "entityTypeId": 1036,
+      "title": "Договор",
+      "documentType": "DYNAMIC_1036",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": "DYNAMIC_1036_STAGE_6",
+          "stages": [
+            {
+              "id": 105,
+              "statusId": "DT1036_6:NEW",
+              "name": "Начало",
+              "sort": 10,
+              "semantics": null,
+              "color": "#22B9FF"
+            },
+            {
+              "id": 106,
+              "statusId": "DT1036_6:PREPARATION",
+              "name": "Подготовка",
+              "sort": 20,
+              "semantics": null,
+              "color": "#88B9FF"
+            },
+            {
+              "id": 107,
+              "statusId": "DT1036_6:CLIENT",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#10e5fc"
+            },
+            {
+              "id": 108,
+              "statusId": "DT1036_6:SUCCESS",
+              "name": "Заключен",
+              "sort": 40,
+              "semantics": "S",
+              "color": "#00ff00"
+            },
+            {
+              "id": 109,
+              "statusId": "DT1036_6:FAIL",
+              "name": "Провал",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 1046,
+      "title": "Лифт",
+      "documentType": "DYNAMIC_1046",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": "DYNAMIC_1046_STAGE_8",
+          "stages": [
+            {
+              "id": 122,
+              "statusId": "DT1046_8:NEW",
+              "name": "Начало",
+              "sort": 10,
+              "semantics": null,
+              "color": "#22B9FF"
+            },
+            {
+              "id": 123,
+              "statusId": "DT1046_8:PREPARATION",
+              "name": "Подготовка",
+              "sort": 20,
+              "semantics": null,
+              "color": "#88B9FF"
+            },
+            {
+              "id": 124,
+              "statusId": "DT1046_8:CLIENT",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#10e5fc"
+            },
+            {
+              "id": 125,
+              "statusId": "DT1046_8:SUCCESS",
+              "name": "Успех",
+              "sort": 40,
+              "semantics": "S",
+              "color": "#00ff00"
+            },
+            {
+              "id": 126,
+              "statusId": "DT1046_8:FAIL",
+              "name": "Провал",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 1050,
+      "title": "Объект",
+      "documentType": "DYNAMIC_1050",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 9,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": "DYNAMIC_1050_STAGE_9",
+          "stages": [
+            {
+              "id": 127,
+              "statusId": "DT1050_9:NEW",
+              "name": "Начало",
+              "sort": 10,
+              "semantics": null,
+              "color": "#22B9FF"
+            },
+            {
+              "id": 128,
+              "statusId": "DT1050_9:PREPARATION",
+              "name": "Подготовка",
+              "sort": 20,
+              "semantics": null,
+              "color": "#88B9FF"
+            },
+            {
+              "id": 129,
+              "statusId": "DT1050_9:CLIENT",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#10e5fc"
+            },
+            {
+              "id": 130,
+              "statusId": "DT1050_9:SUCCESS",
+              "name": "Успех",
+              "sort": 40,
+              "semantics": "S",
+              "color": "#00ff00"
+            },
+            {
+              "id": 131,
+              "statusId": "DT1050_9:FAIL",
+              "name": "Провал",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 1054,
+      "title": "Марка лифта",
+      "documentType": "DYNAMIC_1054",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": "DYNAMIC_1054_STAGE_10",
+          "stages": [
+            {
+              "id": 132,
+              "statusId": "DT1054_10:NEW",
+              "name": "Начало",
+              "sort": 10,
+              "semantics": null,
+              "color": "#22B9FF"
+            },
+            {
+              "id": 133,
+              "statusId": "DT1054_10:PREPARATION",
+              "name": "Подготовка",
+              "sort": 20,
+              "semantics": null,
+              "color": "#88B9FF"
+            },
+            {
+              "id": 134,
+              "statusId": "DT1054_10:CLIENT",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#10e5fc"
+            },
+            {
+              "id": 135,
+              "statusId": "DT1054_10:SUCCESS",
+              "name": "Успех",
+              "sort": 40,
+              "semantics": "S",
+              "color": "#00ff00"
+            },
+            {
+              "id": 136,
+              "statusId": "DT1054_10:FAIL",
+              "name": "Провал",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entityTypeId": 1058,
+      "title": "Юридические лица",
+      "documentType": "DYNAMIC_1058",
+      "supportsCategories": false,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Общая",
+          "sort": 500,
+          "isDefault": "Y",
+          "stageEntityId": "DYNAMIC_1058_STAGE_11",
+          "stages": [
+            {
+              "id": 145,
+              "statusId": "DT1058_11:NEW",
+              "name": "Начало",
+              "sort": 10,
+              "semantics": null,
+              "color": "#22B9FF"
+            },
+            {
+              "id": 146,
+              "statusId": "DT1058_11:PREPARATION",
+              "name": "Подготовка",
+              "sort": 20,
+              "semantics": null,
+              "color": "#88B9FF"
+            },
+            {
+              "id": 147,
+              "statusId": "DT1058_11:CLIENT",
+              "name": "Согласование",
+              "sort": 30,
+              "semantics": null,
+              "color": "#10e5fc"
+            },
+            {
+              "id": 148,
+              "statusId": "DT1058_11:SUCCESS",
+              "name": "Успех",
+              "sort": 40,
+              "semantics": "S",
+              "color": "#00ff00"
+            },
+            {
+              "id": 149,
+              "statusId": "DT1058_11:FAIL",
+              "name": "Провал",
+              "sort": 50,
+              "semantics": "F",
+              "color": "#ff0000"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "ID": "76",
+      "MODULE_ID": "crm",
+      "ENTITY": "CCrmDocumentCompany",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "CCrmDocumentCompany",
+        "COMPANY"
+      ],
+      "AUTO_EXECUTE": "1",
+      "NAME": "Заведение ИНН",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "CrmChangeRequisiteActivity",
+              "Name": "A129_2024_58415_74182",
+              "Activated": "Y",
+              "Properties": {
+                "CrmEntityType": "CONTACT",
+                "RequisitePresetId": "1",
+                "AddressTypeId": "1",
+                "CountryId": "",
+                "FieldsValues": {
+                  "RequisiteFields": {
+                    "RQ_INN": "{=Document:UF_CRM_1760640732106}",
+                    "RQ_ADDR": {
+                      "1": []
+                    }
+                  },
+                  "BankDetailFields": []
+                },
+                "Title": "Изменить реквизиты",
+                "EditorComment": ""
+              },
+              "Children": []
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-16T21:59:08+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "77",
+      "MODULE_ID": "crm",
+      "ENTITY": "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+        "DYNAMIC_1050"
+      ],
+      "AUTO_EXECUTE": "3",
+      "NAME": "Создание лифтов",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "SetVariableActivity",
+              "Name": "A21925_18477_33593_78217",
+              "Activated": "Y",
+              "Properties": {
+                "VariableValue": {
+                  "Variable1": "={=Document:UF_CRM_6_1760643248}"
+                },
+                "Title": "Изменение переменных",
+                "EditorComment": ""
+              },
+              "Children": []
+            },
+            {
+              "Type": "IfElseActivity",
+              "Name": "A13363_81693_72355_22422",
+              "Activated": "Y",
+              "Properties": {
+                "Title": "Условие"
+              },
+              "Children": [
+                {
+                  "Type": "IfElseBranchActivity",
+                  "Name": "A71146_67485_42747_25329",
+                  "Activated": "Y",
+                  "Properties": {
+                    "Title": "Условие",
+                    "EditorComment": "",
+                    "fieldcondition": [
+                      [
+                        "UF_CRM_6_1760649816665",
+                        "=",
+                        "ad6da2e0cbfa7a87720bbf9426a0ed5c",
+                        "0"
+                      ],
+                      [
+                        "UF_CRM_6_1760649816665",
+                        "=",
+                        "48e975fc15a21bf5904bd2b09bfa4205",
+                        "1"
+                      ],
+                      [
+                        "UF_CRM_6_1760643248",
+                        "empty",
+                        "",
+                        "0"
+                      ]
+                    ]
+                  },
+                  "Children": []
+                },
+                {
+                  "Type": "IfElseBranchActivity",
+                  "Name": "A93906_65331_89701_78002",
+                  "Activated": "Y",
+                  "Properties": {
+                    "Title": "Условие",
+                    "EditorComment": "",
+                    "fieldcondition": [
+                      [
+                        "UF_CRM_6_1760649816665",
+                        "=",
+                        "48e975fc15a21bf5904bd2b09bfa4205",
+                        "0"
+                      ]
+                    ]
+                  },
+                  "Children": [
+                    {
+                      "Type": "SetFieldActivity",
+                      "Name": "A54992_81798_51544_79448",
+                      "Activated": "Y",
+                      "Properties": {
+                        "FieldValue": {
+                          "UF_CRM_6_1760649816665": "ad6da2e0cbfa7a87720bbf9426a0ed5c"
+                        },
+                        "ModifiedBy": [],
+                        "MergeMultipleFields": "N",
+                        "Title": "Изменение документа",
+                        "EditorComment": ""
+                      },
+                      "Children": []
+                    },
+                    {
+                      "Type": "WhileActivity",
+                      "Name": "A86688_88850_836_70068",
+                      "Activated": "Y",
+                      "Properties": {
+                        "propertyvariablecondition": [
+                          [
+                            "Variable1",
+                            ">",
+                            "0",
+                            "0"
+                          ]
+                        ],
+                        "Title": "Цикл",
+                        "EditorComment": ""
+                      },
+                      "Children": [
+                        {
+                          "Type": "SequenceActivity",
+                          "Name": "A30278_24191_55055_32744",
+                          "Activated": "Y",
+                          "Properties": {
+                            "Title": "Последовательность действий"
+                          },
+                          "Children": [
+                            {
+                              "Type": "CrmCreateDynamicActivity",
+                              "Name": "A16680_24452_19825_18929",
+                              "Activated": "Y",
+                              "Properties": {
+                                "DynamicTypeId": "1046",
+                                "OnlyDynamicEntities": "Y",
+                                "DynamicEntitiesFields": {
+                                  "1046_TITLE": "Лифт {{=randstring(4)}}",
+                                  "1046_XML_ID": "",
+                                  "1046_CREATED_BY": "",
+                                  "1046_ASSIGNED_BY_ID": "{=Document:ASSIGNED_BY_ID}",
+                                  "1046_OPENED": "Y",
+                                  "1046_BEGINDATE": "{=System:Date}",
+                                  "1046_CLOSEDATE": "{{=workdateadd({=System:Date}, \"+10d\")}}",
+                                  "1046_COMPANY_ID": "{=Document:COMPANY_ID}",
+                                  "1046_CONTACT_ID": "",
+                                  "1046_CONTACT_IDS": [],
+                                  "1046_OBSERVER_IDS": "",
+                                  "1046_CATEGORY_ID": "8",
+                                  "1046_STAGE_ID": "",
+                                  "1046_LAST_ACTIVITY_BY": "",
+                                  "1046_LAST_ACTIVITY_TIME": "",
+                                  "1046_PARENT_ID_2": "{=Document:PARENT_ID_2}",
+                                  "1046_PARENT_ID_1036": "{=Document:PARENT_ID_1036}",
+                                  "1046_BindToCurrentElement": "",
+                                  "1046_PARENT_ID_1050": "{=Document:ID}",
+                                  "1046_UF_CRM_5_1760645280": "",
+                                  "1046_UF_CRM_5_1760645295": "",
+                                  "1046_UF_CRM_5_1760645332": "",
+                                  "1046_UF_CRM_5_1760645345": "",
+                                  "1046_UF_CRM_5_1760648236": ""
+                                },
+                                "Title": "Создание лифта",
+                                "EditorComment": ""
+                              },
+                              "Children": []
+                            },
+                            {
+                              "Type": "StartWorkflowActivity",
+                              "Name": "A53636_93735_16376_50030",
+                              "Activated": "Y",
+                              "Properties": {
+                                "DocumentId": "{=Document:PARENT_ID_2}",
+                                "TemplateId": "79",
+                                "UseSubscription": "Y",
+                                "TemplateParameters": {
+                                  "Parameter1": "{=A16680_24452_19825_18929:ItemId}"
+                                },
+                                "Title": "Запустить бизнес-процесс",
+                                "EditorComment": ""
+                              },
+                              "Children": []
+                            },
+                            {
+                              "Type": "SetVariableActivity",
+                              "Name": "A51731_45968_36344_64444",
+                              "Activated": "Y",
+                              "Properties": {
+                                "VariableValue": {
+                                  "Variable1": "={=Variable:Variable1}-1"
+                                },
+                                "Title": "Изменение переменных",
+                                "EditorComment": ""
+                              },
+                              "Children": []
+                            },
+                            {
+                              "Type": "IfElseActivity",
+                              "Name": "A83367_20914_47027_66146",
+                              "Activated": "Y",
+                              "Properties": {
+                                "Title": "Условие",
+                                "_DesMinimized": "Y"
+                              },
+                              "Children": [
+                                {
+                                  "Type": "IfElseBranchActivity",
+                                  "Name": "A84042_72031_89662_42096",
+                                  "Activated": "Y",
+                                  "Properties": {
+                                    "Title": "Условие",
+                                    "EditorComment": "",
+                                    "propertyvariablecondition": [
+                                      [
+                                        "Variable1",
+                                        "=",
+                                        "0",
+                                        "0"
+                                      ],
+                                      [
+                                        "Variable1",
+                                        "empty",
+                                        "",
+                                        "1"
+                                      ]
+                                    ]
+                                  },
+                                  "Children": [
+                                    {
+                                      "Type": "TerminateActivity",
+                                      "Name": "A56114_27331_31566_17181",
+                                      "Activated": "Y",
+                                      "Properties": {
+                                        "StateTitle": "Выполнение прервано",
+                                        "KillWorkflow": "N",
+                                        "TerminateType": "current",
+                                        "Title": "Прерывание процесса",
+                                        "EditorComment": ""
+                                      },
+                                      "Children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "Type": "IfElseBranchActivity",
+                                  "Name": "A79302_67627_24994_41262",
+                                  "Activated": "Y",
+                                  "Properties": {
+                                    "Title": "Условие"
+                                  },
+                                  "Children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": {
+        "Variable1": {
+          "Name": "Осталось созадать",
+          "Description": "",
+          "Type": "double",
+          "Required": "0",
+          "Multiple": "0",
+          "Options": "",
+          "Default": ""
+        }
+      },
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-17T09:41:06+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "78",
+      "MODULE_ID": "crm",
+      "ENTITY": "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+        "DYNAMIC_1046"
+      ],
+      "AUTO_EXECUTE": "1",
+      "NAME": "Добавление в сделку",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": []
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-16T23:34:20+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "79",
+      "MODULE_ID": "crm",
+      "ENTITY": "CCrmDocumentDeal",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "CCrmDocumentDeal",
+        "DEAL"
+      ],
+      "AUTO_EXECUTE": "0",
+      "NAME": "Прикрепить лифт",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "SetFieldActivity",
+              "Name": "A30927_25026_27260_80286",
+              "Activated": "Y",
+              "Properties": {
+                "FieldValue": {
+                  "UF_CRM_1760618188": [
+                    "{=Template:Parameter1}"
+                  ]
+                },
+                "ModifiedBy": [],
+                "MergeMultipleFields": "Y",
+                "Title": "Изменение документа",
+                "EditorComment": ""
+              },
+              "Children": []
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": {
+        "Parameter1": {
+          "Name": "ID",
+          "Description": "",
+          "Type": "string",
+          "Required": "0",
+          "Multiple": "0",
+          "Options": "",
+          "Default": ""
+        }
+      },
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-16T23:41:31+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "80",
+      "MODULE_ID": "crm",
+      "ENTITY": "CCrmDocumentDeal",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "CCrmDocumentDeal",
+        "DEAL"
+      ],
+      "AUTO_EXECUTE": "2",
+      "NAME": "Прикрепление объекта",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "ForEachActivity",
+              "Name": "A33426_22417_13483_43298",
+              "Activated": "Y",
+              "Properties": {
+                "Variable": "UF_CRM_1760618213",
+                "Object": "Document",
+                "Title": "Итератор",
+                "EditorComment": ""
+              },
+              "Children": [
+                {
+                  "Type": "SequenceActivity",
+                  "Name": "A19947_37159_26514_48080",
+                  "Activated": "Y",
+                  "Properties": {
+                    "Title": "Последовательность действий"
+                  },
+                  "Children": [
+                    {
+                      "Type": "CrmUpdateDynamicActivity",
+                      "Name": "A21304_61516_83839_11098",
+                      "Activated": "Y",
+                      "Properties": {
+                        "DynamicTypeId": "1050",
+                        "DynamicId": "",
+                        "DynamicFilterFields": {
+                          "items": [
+                            [
+                              {
+                                "object": "Document",
+                                "field": "ID",
+                                "operator": "=",
+                                "value": "{=A33426_22417_13483_43298:Value}"
+                              },
+                              "AND"
+                            ]
+                          ]
+                        },
+                        "DynamicEntitiesFields": {
+                          "PARENT_ID_2": "{=Document:ID}"
+                        },
+                        "Title": "Прикрепление объекта",
+                        "EditorComment": ""
+                      },
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-16T23:41:22+00:00",
+      "IS_MODIFIED": "N",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "82",
+      "MODULE_ID": "crm",
+      "ENTITY": "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic",
+        "DYNAMIC_1036"
+      ],
+      "AUTO_EXECUTE": "0",
+      "NAME": "Привязка компаний и контактов",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "CrmGetDynamicInfoActivity",
+              "Name": "A93428_28015_20127_46440",
+              "Activated": "Y",
+              "Properties": {
+                "DynamicTypeId": "4",
+                "ReturnFields": [
+                  "ID"
+                ],
+                "OnlyDynamicEntities": "N",
+                "DynamicFilterFields": {
+                  "items": [
+                    [
+                      {
+                        "object": "Document",
+                        "field": "TITLE",
+                        "operator": "contain",
+                        "value": "{=Document:UF_CRM_3_1760952574}"
+                      },
+                      "AND"
+                    ]
+                  ]
+                },
+                "DynamicEntityFields": {
+                  "ID": {
+                    "Name": "ID",
+                    "Type": "int",
+                    "Filterable": true,
+                    "Editable": false,
+                    "Required": false,
+                    "BaseType": "int"
+                  }
+                },
+                "Title": "Получить информацию об элементе CRM",
+                "EditorComment": ""
+              },
+              "Children": []
+            },
+            {
+              "Type": "CrmGetDynamicInfoActivity",
+              "Name": "A29200_69918_18089_44159",
+              "Activated": "Y",
+              "Properties": {
+                "DynamicTypeId": "4",
+                "ReturnFields": [
+                  "ID"
+                ],
+                "OnlyDynamicEntities": "N",
+                "DynamicFilterFields": {
+                  "items": [
+                    [
+                      {
+                        "object": "Document",
+                        "field": "TITLE",
+                        "operator": "=",
+                        "value": "{=Document:UF_CRM_3_1760952607}"
+                      },
+                      "AND"
+                    ]
+                  ]
+                },
+                "DynamicEntityFields": {
+                  "ID": {
+                    "Name": "ID",
+                    "Type": "int",
+                    "Filterable": "1",
+                    "Editable": "0",
+                    "Required": "0",
+                    "BaseType": "int"
+                  }
+                },
+                "Title": "Получить информацию об элементе CRM",
+                "EditorComment": ""
+              },
+              "Children": []
+            },
+            {
+              "Type": "SetFieldActivity",
+              "Name": "A50330_49053_38535_21890",
+              "Activated": "Y",
+              "Properties": {
+                "FieldValue": {
+                  "COMPANY_ID": "{=A93428_28015_20127_46440:ID}",
+                  "MYCOMPANY_ID": "{=A29200_69918_18089_44159:ID}"
+                },
+                "ModifiedBy": [],
+                "MergeMultipleFields": "N",
+                "Title": "Изменение документа",
+                "EditorComment": ""
+              },
+              "Children": []
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-20T14:02:47+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "107",
+      "MODULE_ID": "crm",
+      "ENTITY": "CCrmDocumentDeal",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "CCrmDocumentDeal",
+        "DEAL"
+      ],
+      "AUTO_EXECUTE": "0",
+      "NAME": "Постановака ответственного",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "GetUserActivity",
+              "Name": "A18624_57782_78368_22730",
+              "Activated": "Y",
+              "Properties": {
+                "UserType": "random",
+                "MaxLevel": "1",
+                "UserParameter": [
+                  "{=Document:COMMENTS}"
+                ],
+                "ReserveUserParameter": [
+                  "user_3"
+                ],
+                "SkipAbsent": "N",
+                "SkipAbsentReserve": "N",
+                "SkipTimeman": "N",
+                "SkipTimemanReserve": "N",
+                "Title": "Выбор сотрудника",
+                "EditorComment": ""
+              },
+              "Children": []
+            },
+            {
+              "Type": "IMNotifyActivity",
+              "Name": "A36882_11686_27912_77517",
+              "Activated": "Y",
+              "Properties": {
+                "MessageSite": "{=A18624_57782_78368_22730:GetUser>printable}",
+                "MessageOut": "",
+                "MessageType": "2",
+                "MessageUserFrom": [
+                  "user_1"
+                ],
+                "MessageUserTo": [
+                  "user_1"
+                ],
+                "Title": "Уведомление пользователя",
+                "EditorComment": ""
+              },
+              "Children": []
+            },
+            {
+              "Type": "CrmChangeResponsibleActivity",
+              "Name": "A82675_32762_58287_98529",
+              "Activated": "N",
+              "Properties": {
+                "Title": "Изменить ответственного",
+                "EditorComment": ""
+              },
+              "Children": []
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": [],
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-24T17:17:45+00:00",
+      "IS_MODIFIED": "N",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    },
+    {
+      "ID": "156",
+      "MODULE_ID": "crm",
+      "ENTITY": "CCrmDocumentCompany",
+      "DOCUMENT_TYPE": [
+        "crm",
+        "CCrmDocumentCompany",
+        "COMPANY"
+      ],
+      "AUTO_EXECUTE": "0",
+      "NAME": "Рассылка писем",
+      "DESCRIPTION": "",
+      "TEMPLATE": [
+        {
+          "Type": "SequentialWorkflowActivity",
+          "Name": "Template",
+          "Activated": "Y",
+          "Properties": {
+            "Title": "Последовательный бизнес-процесс",
+            "Permission": []
+          },
+          "Children": [
+            {
+              "Type": "MailActivity",
+              "Name": "A65460_14829_75972_3544",
+              "Activated": "Y",
+              "Properties": {
+                "MailSubject": "{=Template:Parameter1}",
+                "MailText": "{=Template:Parameter2}",
+                "MailMessageType": "plain",
+                "MailCharset": "UTF-8",
+                "DirrectMail": "N",
+                "MailSite": "s1",
+                "MailSeparator": ",",
+                "File": [
+                  ""
+                ],
+                "FileType": "file",
+                "MailUserFrom": "",
+                "MailUserFromArray": [
+                  "{=Document:ASSIGNED_BY_ID}"
+                ],
+                "MailUserTo": "i@egor-tsygankov.ru",
+                "MailUserToArray": [],
+                "MailMessageEncoded": "0",
+                "Title": "Почтовое сообщение",
+                "EditorComment": ""
+              },
+              "Children": []
+            }
+          ]
+        }
+      ],
+      "PARAMETERS": {
+        "Parameter1": {
+          "Name": "Тема письма",
+          "Description": "",
+          "Type": "string",
+          "Required": "1",
+          "Multiple": "0",
+          "Options": "",
+          "Default": ""
+        },
+        "Parameter2": {
+          "Name": "Тело письма",
+          "Description": "",
+          "Type": "text",
+          "Required": "0",
+          "Multiple": "0",
+          "Options": "",
+          "Default": ""
+        }
+      },
+      "VARIABLES": [],
+      "CONSTANTS": [],
+      "MODIFIED": "2025-10-29T12:52:02+00:00",
+      "IS_MODIFIED": "Y",
+      "USER_ID": "1",
+      "SYSTEM_CODE": null
+    }
+  ],
+  "limitations": [
+    "Отдельного публичного REST-метода для выгрузки всех настроенных CRM-роботов по стадиям Bitrix24 не предоставляет.",
+    "Связи по стадиям и подпроцессам восстанавливаются из шаблонов bizproc.workflow.template.list и их внутренней структуры.",
+    "Для лидов, сделок и смарт-процессов карта стадий строится по официальным CRM status/category методам. Для некоторых CRM-сущностей без устойчивого REST-паттерна стадий может быть доступна только шаблонная часть."
+  ]
+}
