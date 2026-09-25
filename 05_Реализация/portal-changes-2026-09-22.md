@@ -45,3 +45,17 @@ title: Правки портала ELVLift 22.09.2026 — «Скорая пом�
 ## Что осталось (только интерфейс)
 
 Пункты 1, 2, 5 (конвертация и карточка канбана), 6, 9, 10 («Мои дела»), 12, 13 (обязательное отчество). Проверка роботов по п. 7. Решение клиента по п. 11.
+
+## 25.09.2026 — структура таблиц модуля booking (обновление платформы)
+
+**Причина:** обновление модуля booking до 26.500.0 падало с ошибкой `(1054) Unknown column 'ENTITY_ID'` на таблицах `b_booking_booking_client`, `b_booking_booking_external_data`, `b_booking_booking_note` ([CL04]). Файлы модуля к этому моменту уже обновились: в `install.sql` целевая схема, а в базе колонки `ENTITY_ID`/`ENTITY_TYPE` не добавлены.
+
+**Способ:** «SQL запрос» в админке, выполнял Егор. Все три таблицы пустые (0 строк), данные не затронуты.
+
+| Таблица | Было | Стало |
+|---|---|---|
+| `b_booking_booking_client` | `BOOKING_ID` NOT NULL, индекс `IX_BBC_BOOKING_ID_CLIENT` | `BOOKING_ID` NULL, + `ENTITY_ID`, `ENTITY_TYPE` (default `booking`), уникальный `IX_BBC_ENTITY_ID_CLIENT` |
+| `b_booking_booking_external_data` | индекс `IX_BBED_BOOKING_ID` | + `ENTITY_ID`, `ENTITY_TYPE`, индекс `IX_BBED_ENTITY_ID_ENTITY_TYPE` |
+| `b_booking_booking_note` | индекс `IX_BBN_BOOKING_ID` | + `ENTITY_ID`, `ENTITY_TYPE`, `NOTE_TYPE` (default `manager`), уникальный `IX_BBN_ENTITY_ID_ENTITY_TYPE_NOTE_TYPE` |
+
+Проверка: состав колонок совпал с `bitrix/modules/booking/install/db/mysql/install.sql`. Далее — повторный запуск «Обновления платформы».
